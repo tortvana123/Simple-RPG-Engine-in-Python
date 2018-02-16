@@ -1,0 +1,7 @@
+# Title Screen info
+game_title: "THE DUNGEON"
+title_label: "\"Welcome to the Dungeon\""
+title_description: "This is a sample game to test the engine with.\n Press \"Start Game\" to start the game."
+stat_points_default: 20
+stats: ["Strength", "Stamina", "Defense", "Agility", "Intelligence", "Charisma", "Perception", "Luck"]
+stats_Label: "Strength: {0}\nStamina: {1}\nDefense: {2}\nAgility: {3}\nIntelligence: {4}\nCharisma:  {5}\nPerception: {6}\nLuck: {7}"
