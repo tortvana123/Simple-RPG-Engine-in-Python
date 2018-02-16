@@ -1,4 +1,4 @@
-# Simple RPG Engine in Python
+# Simple RPG Engine in Python V0.1
 An engine for simple RPGs, using appJar for GUI and YAML for data.
 **NB! THIS ENGINE IS STILL VERY MUCH A WORK IN PROGRESS. USE AT YOUR OWN RISK**
 
