@@ -1,13 +1,14 @@
 # Developer Notes
-## Current To-Do:
-* Comment the current code properly.
-* Commit the commented code
-* Organize the materials from previous failed repo's.
-## Done:
-* Start a new repo
-* Create seperate changelog and a developer notes files.
+## What has to be done for V0.2?
+* Comment the code properly
+* Start implementing the room cell system
 
-## What is currently in the code?
-* TBD
-## What still needs to be implemented?
-* TBD
+# To-do:
+* Make a proper diagram to make future code easier!
+
+# What is currently in the code?
+* Data loading
+* Title screen
+* Character creation
+# What still needs to be implemented?
+* Room cell system and everything related to it.
