@@ -1,9 +1,7 @@
-# Simple RPG Engine in Python V0.1
-An engine for simple RPGs, using appJar for GUI and YAML for data.
-**NB! THIS ENGINE IS STILL VERY MUCH A WORK IN PROGRESS. USE AT YOUR OWN RISK**
+# Simple RPG Engine in Python V0.1 (Game Branch)
+This is a seperate branch from the game engine, used to make a game for a school project.
 
-## Why?
-I'm trying to make this a game engine which is as easy to use as possible, requiring minimal programming skills to create games.
-That's why I'm using appJar, because it is incredibly easy to use and
-YAML, because it's one of the most human-readable data serialization languages. 
-But if you already know a bit about programming, feel free to modify/copy the code for your own projects!
+The main engine project will not be worked on until this is done.
+
+**Warning! This version of the game engine will contain game-specific code. It is not intended to be used with anything but the game config files specific to this branch.**
+
